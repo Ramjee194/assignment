@@ -12,7 +12,7 @@ Thank you for your interest in contributing! We welcome contributions from every
 
 ```bash
 # Install dependencies
-npm install
+bun install
 
 # Copy environment variables
 cp .env.example .env
