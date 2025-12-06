@@ -23,18 +23,18 @@ This is a **Bulk Email Sender** web application currently built with **Hono** (b
 ## 🎯 Assignment Objectives
 
 
-### 3. **Implement SvelteKit Frontend**
+### 1. **Implement SvelteKit Frontend**
 - ✅ Create a **modern, clean UI** using SvelteKit
 - ✅ Implement all existing features with enhanced UX
 - ✅ Add client-side validation and error handling
 - ✅ Implement responsive design (mobile-friendly)
 
-### 4. **Remove Old Frontend**
+### 2. **Remove Old Frontend**
 - ✅ Delete `public/` folder (HTML, CSS, JS files)
 - ✅ Remove static file serving routes from backend (except API endpoints)
 - ✅ Ensure no dependencies on old frontend code
 
-### 5. **Update Documentation**
+### 3. **Update Documentation**
 - ✅ Update `README.md` with new architecture
 - ✅ Document setup instructions for both backend and frontend
 - ✅ Add API documentation
